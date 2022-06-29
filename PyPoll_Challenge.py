@@ -166,4 +166,3 @@ with open(file_to_save, "w") as txt_file:
     
     
 
-print(countyPercentage)
